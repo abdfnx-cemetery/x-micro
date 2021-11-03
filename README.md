@@ -1,3 +1,3 @@
-# micro
+# x-micro
 
-small micro app for ios 📱
+small microphone app can change your voice for ios 📱
